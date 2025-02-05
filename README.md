@@ -10,12 +10,6 @@ Bu proje, görev yönetim API'sini geliştirmek için oluşturulmuştur. Kullan�
 - **Mongoose**: MongoDB için Object Data Modeling (ODM) kütüphanesi
 - **dotenv**: Çevresel değişkenleri yönetmek için
 
-## Başlangıç
-
-### Gereksinimler
-
-- Node.js
-- MongoDB veritabanı
 
 ## Postman Çıktıları
 
